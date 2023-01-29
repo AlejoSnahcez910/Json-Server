@@ -2,9 +2,29 @@
   "results": [
     {
       "id": 1,
-      "name": "AT",
-      "image": 
+      "name": "AC",
+      "image": "https://github.com/AlejoSnahcez910/Json-Server/blob/main/As_corazones.png"
     }
   
 },
+    {
+      "id": 2,
+      "name": "AP",
+      "image": "https://github.com/AlejoSnahcez910/Json-Server/blob/main/As_picas.png"
+    }
+
+},
+    {
+      "id": 3,
+      "name": "AT",
+      "image": "https://github.com/AlejoSnahcez910/Json-Server/blob/main/As_trebol.png"
+    }
+
+},
+    {
+      "id": 4,
+      "name": "AD",
+      "image": "https://github.com/AlejoSnahcez910/Json-Server/blob/main/559px-As_rombos.png"
+    }
+}
 

@@ -1,31 +1,29 @@
 {
-  "results": [
+  "users":[
     {
       "id": 1,
-      "name": "AC",
-      "image": "https://github.com/AlejoSnahcez910/Json-Server/blob/main/As_corazones.png"
+      "name": "Rick",
+      "deck": [1,2,3,4,5]
     },
-  
-
     {
       "id": 2,
-      "name": "AP",
-      "image": "https://github.com/AlejoSnahcez910/Json-Server/blob/main/As_picas.png"
+      "name": "Morty",
+      "deck": [56,98,152,65,3]
     },
-
-
     {
       "id": 3,
-      "name": "AT",
-      "image": "https://github.com/AlejoSnahcez910/Json-Server/blob/main/As_trebol.png"
+      "name": "Jerry",
+      "deck": [2,84,56,245,5]
     },
-
-
     {
       "id": 4,
-      "name": "AD",
-      "image": "https://github.com/AlejoSnahcez910/Json-Server/blob/main/559px-As_rombos.png"
-    }
+      "name": "Bett",
+      "deck": [56,98,152,65,3]
+    },
+    {
+      "id": 5,
+      "name": "Summer",
+      "deck": [56,98,152,65,3]
+    },
   ]
 }
-
